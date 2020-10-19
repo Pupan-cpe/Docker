@@ -8,6 +8,7 @@ const port =  process.env.PORT || 3000;
 app.get("/data", (req, res) => {
   console.log("success!");
   console.log("test github");
+  console.log("github");
 //   console.log(req);
   res.json({ ok: "success" });
 });
