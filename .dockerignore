@@ -1,0 +1,9 @@
+.vscode
+node_modules
+a.text
+b.text
+Dockerfile
+LICENSE
+.vs
+.dockerignore
+
